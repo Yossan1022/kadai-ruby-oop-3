@@ -1,7 +1,6 @@
 require './human'
 require './animal'
 require './thinkable'
-  include Thinkable
   def initialize
     @name = name
     @age = age

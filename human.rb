@@ -8,8 +8,5 @@ class Human < Animal
     @age = age
     @hobit = hobit
  end
-def say()
-    puts "#{@name}です。#{@age}歳です。"
-    puts "私は#{@hobit}について考えています。"
-end
+
 end

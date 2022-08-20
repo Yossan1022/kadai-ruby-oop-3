@@ -7,4 +7,5 @@ class Human < Animal
     @age = age
     @hobit = hobit
  end
+ attr_accessor :hobit
 end
